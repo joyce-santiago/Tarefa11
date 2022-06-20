@@ -1,0 +1,15 @@
+{
+    "students": [
+        {"id": 1, "nome": "Kibum", "nacionalidade": "Brasileiro", "ensino": "Fundamental", "periodo": "Integral"},
+        {"id": 2, "nome": "Taemin", "nacionalidade": "Estrangeiro", "ensino": "Medio", "periodo": "Integral"},
+        {"id": 3, "nome": "Jonghyun", "nacionalidade": "Brasileiro", "ensino": "Medio", "periodo": "Integral"},
+        {"id": 4, "nome": "Bill", "nacionalidade": "Estrangeiro", "ensino": "Medio", "periodo": "Integral"},
+        {"id": 5, "nome": "Tom", "nacionalidade": "Estrangeiro", "ensino": "Medio", "periodo": "Integral"},
+        {"id": 6, "nome": "Ronnie", "nacionalidade": "Brasileiro", "ensino": "Fundamental", "periodo": "Integral"},
+        {"id": 7, "nome": "Axl Rose", "nacionalidade": "Estrangeiro", "ensino": "Fundamental", "periodo": "Integral"},
+        {"id": 8, "nome": "Jack Avery", "nacionalidade": "Brasileiro", "ensino": "Medio", "periodo": "Integral"},
+        {"id": 9, "nome": "Corbyn", "nacionalidade": "Brasileiro", "ensino": "Medio", "periodo": "Integral"},
+        {"id": 10, "nome": "Gustavo", "nacionalidade": "Brasileiro", "ensino": "Fundamental", "periodo": "Integral"}
+    ]
+}
+
